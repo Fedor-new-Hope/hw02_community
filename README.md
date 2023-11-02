@@ -1,5 +1,6 @@
 # yatube_project
 Social network of bloggers
+Яндекс Практикум. Спринт 3. Итоговый проект.
 
 ### *Описание*
 Yatube - это социальная сеть с авторизацией, персональными лентами, комментариями и подписками на авторов статей.
@@ -38,7 +39,7 @@ python manage.py runserver
 ```
 - Регистрация  суперпользователя
 ```
-python3 manage.py createsuperuser
+python manage.py createsuperuser
 
 # адрес панели администратора
 # http://127.0.0.1:8000/admin
