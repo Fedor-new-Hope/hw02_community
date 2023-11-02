@@ -1,5 +1,7 @@
 # yatube_project
+---
 Social network of bloggers
+---
 Яндекс Практикум. Спринт 3. Итоговый проект.
 
 ### *Описание*
